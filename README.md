@@ -8,5 +8,6 @@ My name is Natália Volpi, I'm a Front-End developer. I am currently learning an
 
 And starting to learn:
 <br>
+- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo">
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
 
